@@ -1,5 +1,5 @@
 <?php
-header("Location:/labs.html");
+header("Location:/labs/labs.html");
 ?>
 <?php
 $file = "cek";
